@@ -1,0 +1,1 @@
+# mafia-setup-creator

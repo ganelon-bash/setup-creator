@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="Fable.Core" Version="3.1.6" />
+      <PackageReference Include="Fable.Elmish" Version="3.1.0" />
+      <PackageReference Include="Fable.Elmish.Browser" Version="3.0.4" />
+      <PackageReference Include="Fable.Elmish.Debugger" Version="3.2.0" />
+      <PackageReference Include="Fable.Elmish.HMR" Version="4.0.1" />
+      <PackageReference Include="Fable.Elmish.React" Version="3.0.1" />
+      <PackageReference Include="Fable.Promise" Version="2.1.0" />
+      <PackageReference Include="Fable.React" Version="7.0.1" />
+      <Compile Include="ModelLibrary.fs" />
+      <Compile Include="Effect.fs" />
+      <Compile Include="Ability.fs" />
+      <Compile Include="RoleFaction.fs" />
+      <Compile Include="LynchType.fs" />
+      <Compile Include="Model.fs" />
+      <Compile Include="Update.fs" />
+      <Compile Include="RightSideBar.fs" />
+      <Compile Include="View.fs" />
+      <Compile Include="Program.fs" />
+    </ItemGroup>
+</Project>
