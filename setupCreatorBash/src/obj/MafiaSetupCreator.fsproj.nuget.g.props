@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/p24/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/p24/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.5.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/home/p24/.nuget/packages/fsharp.core/4.7.2</PkgFSharp_Core>
+    <PkgFable_Core Condition=" '$(PkgFable_Core)' == '' ">/home/p24/.nuget/packages/fable.core/3.1.6</PkgFable_Core>
+    <PkgFable_React Condition=" '$(PkgFable_React)' == '' ">/home/p24/.nuget/packages/fable.react/7.0.1</PkgFable_React>
+    <PkgFable_Promise Condition=" '$(PkgFable_Promise)' == '' ">/home/p24/.nuget/packages/fable.promise/2.1.0</PkgFable_Promise>
+    <PkgFable_Elmish Condition=" '$(PkgFable_Elmish)' == '' ">/home/p24/.nuget/packages/fable.elmish/3.1.0</PkgFable_Elmish>
+    <PkgFable_Elmish_React Condition=" '$(PkgFable_Elmish_React)' == '' ">/home/p24/.nuget/packages/fable.elmish.react/3.0.1</PkgFable_Elmish_React>
+    <PkgFable_Elmish_Browser Condition=" '$(PkgFable_Elmish_Browser)' == '' ">/home/p24/.nuget/packages/fable.elmish.browser/3.0.4</PkgFable_Elmish_Browser>
+    <PkgFable_Elmish_HMR Condition=" '$(PkgFable_Elmish_HMR)' == '' ">/home/p24/.nuget/packages/fable.elmish.hmr/4.0.1</PkgFable_Elmish_HMR>
+    <PkgFable_Elmish_Debugger Condition=" '$(PkgFable_Elmish_Debugger)' == '' ">/home/p24/.nuget/packages/fable.elmish.debugger/3.2.0</PkgFable_Elmish_Debugger>
+  </PropertyGroup>
+</Project>

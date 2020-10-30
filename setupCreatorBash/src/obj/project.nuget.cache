@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6SjU5wY7E4vnQhSzY/yjX9Kq8NLPstpOkfiTPPMlm9zk/jmzPVkmt/68M+sBhAMiVOqXh17ud8r9Awi41yLQw==",
+  "success": true,
+  "projectFilePath": "/home/p24/RiderProjects/mafiaSetupCreator/src/MafiaSetupCreator.fsproj",
+  "expectedPackageFiles": [
+    "/home/p24/.nuget/packages/fable.browser.blob/1.1.0/fable.browser.blob.1.1.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.browser.dom/2.0.1/fable.browser.dom.2.0.1.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.browser.event/1.2.1/fable.browser.event.1.2.1.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.browser.webstorage/1.0.0/fable.browser.webstorage.1.0.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.core/3.1.6/fable.core.3.1.6.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.elmish/3.1.0/fable.elmish.3.1.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.elmish.browser/3.0.4/fable.elmish.browser.3.0.4.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.elmish.debugger/3.2.0/fable.elmish.debugger.3.2.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.elmish.hmr/4.0.1/fable.elmish.hmr.4.0.1.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.elmish.react/3.0.1/fable.elmish.react.3.0.1.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.promise/2.1.0/fable.promise.2.1.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/fable.react/7.0.1/fable.react.7.0.1.nupkg.sha512",
+    "/home/p24/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512",
+    "/home/p24/.nuget/packages/thoth.json/4.0.0/thoth.json.4.0.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/p24/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/p24/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
